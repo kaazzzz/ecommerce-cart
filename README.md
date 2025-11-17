@@ -73,11 +73,3 @@ This project includes product management, a session-based cart, a checkout workf
 git clone https://github.com/YOUR-USERNAME/ecommerce-cart.git
 cd ecommerce-cart
 
-###Update PostgreSQL settings
-DB_CONNECTION=pgsql
-DB_HOST=127.0.0.1
-DB_PORT=5432
-DB_DATABASE=ecommerce_cart
-DB_USERNAME=postgres
-DB_PASSWORD=yourpassword
-
